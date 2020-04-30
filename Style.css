@@ -1,0 +1,51 @@
+html {
+    background-size: initial;
+    background-image: url(https://thumbs.gfycat.com/GlisteningDearestFoal-size_restricted.gif);
+}
+
+p {
+    color: white;
+    font-size: 25px;
+    text-align: center;
+}
+ul {
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+li {
+    text-align: center;
+    color: red;
+}
+a {
+    color: black;
+    font-size: 15px;
+    text-align: center;
+    margin: 0 auto;
+    padding: 5px 5px 5px 5px;
+    background-color: yellow;
+    border: 2px solid black;
+}
+h1 {
+    font-size: 15px;
+    text-align: center;
+}
+h2 {
+    font-size: 15px;
+    text-align: center;
+}
+h3 {
+    font-size: 15px;
+    text-align: center;
+}
+h4 {
+    font-size: 15px;
+    text-align: center;
+}
+h5{
+    font-size: 15px;
+    text-align: center;
+}
+strong {
+    color: khaki;
+}
